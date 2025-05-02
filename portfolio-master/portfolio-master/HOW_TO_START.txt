@@ -1,0 +1,10 @@
+open this folder in VSCODE 
+
+Write Npm i in the terminal to install all the tailwind and modules 
+
+when completed Write npm run dev and check localhost:3000 port.
+
+
+Hosted link is avaiable in [https://portfolio-git-master-adarshs-projects-72dcea63.vercel.app/]
+
+all the projects are linked with the hosted version and github repo
